@@ -1,15 +1,18 @@
 ---
-title: My Site
+title: RPI Student Government
 toc: false
 ---
 
 This is the landing page.
 
-## Explore
+## Governing Bodies
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="docs/senate" title="Senate" icon="user-group" >}}
+  {{< card link="about" title="Executive Board" icon="cash" >}}
+  {{< card link="about" title="Judicial Board" icon="academic-cap" >}}
+  {{< card link="about" title="Undergraduate Council" icon="book-open" >}}
+  {{< card link="about" title="Graduate Council" icon="briefcase" >}}
 {{< /cards >}}
 
 ## Documentation
